@@ -16,7 +16,7 @@
 
 - Planificación y ejecución de inspecciones automáticas, calibración y soporte técnico de telemanipuladores para ensayos no destructivos de componentes en zonas radiologicamente controladas.
 
-- Ademas llevando a cabo tareas de planificación, reparación, mantenimiento y calibración de equipos de ultrasonido e instrumental electrónico, trabajando en conjunto con distintos proveedores internacionales (Doosan Babcock, Tecnatom SA, Force Technology).
+- Ademas llevando a cabo tareas de planificación, reparación, mantenimiento y calibración de equipos de ultrasonido e instrumental electrónico, trabajando en conjunto con equipos de distintos proveedores internacionales (Doosan Babcock, Tecnatom SA, Force Technology).
 
 
 ### Soporte Técnico · HID GlobalHID Global
@@ -35,7 +35,7 @@ Tareas de operación y mantenimiento de equipos electrónicos dedicados a medici
 
 :date: may. 2005 - oct. 2006 · 1 año 6 meses :earth_americas: Ciudad Autónoma de Buenos Aires
 
-Tareas como programador de aplicaciones web (XHTML, CSS, JavaScript, XML, SQL, AJAX y Perl) y forme parte de un grupo de trabajo distribuido con personas de Argentina, España y Venezuela desarrollando aplicativos para sistemas de bancarios españoles.
+Tareas como programador de aplicaciones web (XHTML, CSS, JavaScript, XML, SQL, AJAX y Perl) y forme parte de un equipo de trabajo distribuido con personas de Argentina, España y Venezuela desarrollando aplicativos para sistemas de bancarios españoles.
 
 ## Formación Académica
 
@@ -83,5 +83,6 @@ Exámenes libres de los niveles infantiles y adolescentes.
 
 - Un Estudiante/un compañero. programa de voluntariado para orientación y seguimiento de alumnos ingresantes en la UNaHur.
 - Promotor de Bienestar estudiantil, programa de voluntariado para asistencia a alumnos en cuanto a lo relacionado a actividades complementarias dentro de la universidad.
+- Colaborador como presentador de las charlar en el Congreso Argentino de Sistemas Embebidos, CASE2020.
 
 
