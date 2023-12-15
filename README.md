@@ -43,7 +43,11 @@ Tareas como programador de aplicaciones web (XHTML, CSS, JavaScript, XML, SQL, A
 
 :date: mar. 2021 - dic. 2026 :earth_americas: Hurlingham
 
-Actualmente cursando materias de tercer y cuarto año.
+Actualmente cursando materias de quinto año.
+
+### Técnico Universitario en Informática · Universidad Nacional de Hurlingham
+
+:date: mar. 2021 - dic. 2023 :earth_americas: Hurlingham
 
 ### Ingeniero, Electrónica · Universidad de Morón 
 
