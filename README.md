@@ -6,13 +6,13 @@
 
 ### Estudiante Asistente · Universidad Nacional de Hurlingham (UNAHUR)
 
-:date: ago. 2022 - actualidad · 9 meses :earth_americas: Villa Tesei, Provincia de Buenos Aires, Argentina
+:date: ago. 2022 - actualidad · 16 meses :earth_americas: Villa Tesei, Provincia de Buenos Aires, Argentina
 
 - Como estudiante asistente formo parte del equipo de trabajo de "Introducción a la Lógica y los Problemas Computacionales", materia de primer cuatrimestre de la carrera de Tecnicatura en Informática, donde se establecen las bases primordiales para que los estudiantes puedas desarrollar todas sus aptitudes en lo referido al pensamiento lógico y los conceptos fundamentales para una programación de calidad y en equipo.
 
 ### Técnico Especialista · Nucleoeléctrica Argentina S.A.
 
-:date: 14 años 5 meses, :earth_americas: Lima, Provincia de Buenos Aires
+:date: 15 años, :earth_americas: Lima, Provincia de Buenos Aires
 
 - Planificación y ejecución de inspecciones automáticas, calibración y soporte técnico de telemanipuladores para ensayos no destructivos de componentes en zonas radiologicamente controladas.
 
