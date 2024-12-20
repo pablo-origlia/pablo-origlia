@@ -4,15 +4,21 @@
 
 ## Experiencia Laboral
 
+### Ayudante de 2da. · Universidad Nacional de Hurlingham (UNAHUR)
+
+:date: ago. 2024 - actualidad :earth_americas: Villa Tesei, Provincia de Buenos Aires, Argentina
+
+- Como ayudante de segunda formo parte del equipo de trabajo de "Programación Estructurada", materia perteneciente al segundo cuatrimestre de la carrera de Tecnicatura en Informática, llevando a cabo las clases teórico/prácticas, donde se profundizan los conceptos claves para que los estudiantes puedas desarrollar todas sus aptitudes en el campo de la programación imperativa estructurada.
+
 ### Estudiante Asistente · Universidad Nacional de Hurlingham (UNAHUR)
 
-:date: ago. 2022 - actualidad · 16 meses :earth_americas: Villa Tesei, Provincia de Buenos Aires, Argentina
+:date: 2 años :earth_americas: Villa Tesei, Provincia de Buenos Aires, Argentina
 
 - Como estudiante asistente formo parte del equipo de trabajo de "Introducción a la Lógica y los Problemas Computacionales", materia de primer cuatrimestre de la carrera de Tecnicatura en Informática, donde se establecen las bases primordiales para que los estudiantes puedas desarrollar todas sus aptitudes en lo referido al pensamiento lógico y los conceptos fundamentales para una programación de calidad y en equipo.
 
 ### Técnico Especialista · Nucleoeléctrica Argentina S.A.
 
-:date: 15 años, :earth_americas: Lima, Provincia de Buenos Aires
+:date: dic. 2008 - actualidad :earth_americas: Lima, Provincia de Buenos Aires
 
 - Planificación y ejecución de inspecciones automáticas, calibración y soporte técnico de telemanipuladores para ensayos no destructivos de componentes en zonas radiologicamente controladas.
 
@@ -85,6 +91,7 @@ Exámenes libres de los niveles infantiles y adolescentes.
 
 ## Actividades complementarias
 
+- Actualmente becario en el rol de Iniciación a la Vida Científica (IVC) dentro del marco de las Becas de Estímulo a las Vocaciones Científicas (becas EVC-CIN) en el Laboratorio de investigación y desarrollo experimental en computación (LIDEC)en la UNaHur.
 - Un Estudiante/un compañero. programa de voluntariado para orientación y seguimiento de alumnos ingresantes en la UNaHur.
 - Promotor de Bienestar estudiantil, programa de voluntariado para asistencia a alumnos en cuanto a lo relacionado a actividades complementarias dentro de la universidad.
 - Colaborador como presentador de las charlar en el Congreso Argentino de Sistemas Embebidos, CASE2020.
