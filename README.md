@@ -1,105 +1,97 @@
-
-
 # PABLO D. ORIGLIA <image align="right" src="foto_pablo.png" width="100" alt="Pablo Origlia">
 
 ## Experiencia Laboral
 
 ### Ayudante de 2da. · Universidad Nacional de Hurlingham (UNAHUR)
 
-:date: mar. 2025 - actualidad :earth_americas: Villa Tesei, Provincia de Buenos Aires, Argentina
+:date: Mar. 2025 - Actualidad :earth_americas: Villa Tesei, Provincia de Buenos Aires, Argentina
 
-- Como ayudante de segunda formo parte del equipo de trabajo de "Programación con Objetos I", materia perteneciente al tercer cuatrimestre de la carrera de Tecnicatura en Informática, llevando a cabo las clases teórico/prácticas, donde se profundizan los conceptos claves para que los estudiantes puedas desarrollar todas sus aptitudes en el campo de la programación orientada a objetos y sus principales conceptos.
+- Como ayudante de segunda, formo parte del equipo de trabajo de "Programación con Objetos I", materia del tercer cuatrimestre de la carrera de Tecnicatura en Informática. Me encargo de las clases teórico-prácticas, donde se profundizan conceptos clave para que los estudiantes desarrollen sus habilidades en programación orientada a objetos.
 
 ### Técnico Especialista · Nucleoeléctrica Argentina S.A.
 
-:date: dic. 2008 - actualidad :earth_americas: Lima, Provincia de Buenos Aires, Argentina
+:date: Dic. 2008 - Actualidad :earth_americas: Lima, Provincia de Buenos Aires, Argentina
 
-- Planificación y ejecución de inspecciones automáticas, calibración y soporte técnico de telemanipuladores para ensayos no destructivos de componentes en zonas radiologicamente controladas.
-
-- Ademas llevando a cabo tareas de planificación, reparación, mantenimiento y calibración de equipos de ultrasonido e instrumental electrónico, trabajando en conjunto con equipos de distintos proveedores internacionales (Doosan Babcock, Tecnatom SA, Force Technology).
+- Planificación y ejecución de inspecciones automáticas, calibración y soporte técnico de telemanipuladores para ensayos no destructivos de componentes en zonas radiológicamente controladas.
+- Planificación, reparación, mantenimiento y calibración de equipos de ultrasonido e instrumental electrónico, trabajando en conjunto con equipos de proveedores internacionales como Doosan Babcock, Tecnatom SA y Force Technology.
 
 ### Ayudante de 2da. · Universidad Nacional de Hurlingham (UNAHUR)
 
-:date: ago. 2024 - feb. 2025 :earth_americas: Villa Tesei, Provincia de Buenos Aires, Argentina
+:date: Ago. 2024 - Feb. 2025 :earth_americas: Villa Tesei, Provincia de Buenos Aires, Argentina
 
-- Como ayudante de segunda formo parte del equipo de trabajo de "Programación Estructurada", materia perteneciente al segundo cuatrimestre de la carrera de Tecnicatura en Informática, llevando a cabo las clases teórico/prácticas, donde se profundizan los conceptos claves para que los estudiantes puedas desarrollar todas sus aptitudes en el campo de la programación imperativa estructurada.
+- Como ayudante de segunda, formé parte del equipo de trabajo de "Programación Estructurada", materia del segundo cuatrimestre de la Tecnicatura en Informática. Impartí clases teórico-prácticas, reforzando conceptos clave en programación imperativa estructurada.
 
 ### Estudiante Asistente · Universidad Nacional de Hurlingham (UNAHUR)
 
 :date: 2 años :earth_americas: Villa Tesei, Provincia de Buenos Aires, Argentina
 
-- Como estudiante asistente formo parte del equipo de trabajo de "Introducción a la Lógica y los Problemas Computacionales", materia de primer cuatrimestre de la carrera de Tecnicatura en Informática, donde se establecen las bases primordiales para que los estudiantes puedas desarrollar todas sus aptitudes en lo referido al pensamiento lógico y los conceptos fundamentales para una programación de calidad y en equipo.
+- Como estudiante asistente, formé parte del equipo de trabajo de "Introducción a la Lógica y los Problemas Computacionales", materia del primer cuatrimestre de la Tecnicatura en Informática. Colaboré en establecer las bases para el desarrollo del pensamiento lógico y la programación de calidad en equipo.
 
-### Soporte Técnico · HID GlobalHID Global
+### Soporte Técnico · HID Global
 
-:date: jun. 2008 - nov. 2008 · 6 meses :earth_americas: Ciudad Autónoma de Buenos Aires, Argentina
+:date: Jun. 2008 - Nov. 2008 · 6 meses :earth_americas: Ciudad Autónoma de Buenos Aires, Argentina
 
-Tareas de asistencia técnica en lo relacionado a productos para control de acceso (lectores y tarjetas de proximidad, magnéticas, smart-cards; controladores y centrales) y seguridad electrónica (control lógico de acceso).
+- Asistencia técnica en productos de control de acceso (lectores y tarjetas de proximidad, magnéticas, smart cards, controladores y centrales) y seguridad electrónica.
 
-### Ayudante Técnico-científico · Instituto Antártico Argentino
+### Ayudante Técnico-Científico · Instituto Antártico Argentino
 
-:date: nov. 2006 - mar. 2008 · 1 año 5 meses :earth_americas: Base Belgrano II, Provincia de Tierra del Fuego, Antártida e Islas del Atlántico Sur, Antártida Argentina
+:date: Nov. 2006 - Mar. 2008 · 1 año 5 meses :earth_americas: Base Belgrano II, Provincia de Tierra del Fuego, Antártida e Islas del Atlántico Sur, Antártida Argentina
 
-Tareas de operación y mantenimiento de equipos electrónicos dedicados a mediciones atmosféricas (radiación UV, ozono, dióxido de carbono) y geodésicas (GPS, gravimetría) en la base. Recolección de datos obtenidos en los distintos instrumentos y su distribución a las diferentes agencias relacionadas con cada uno.
+- Operación y mantenimiento de equipos electrónicos para mediciones atmosféricas (radiación UV, ozono, dióxido de carbono) y geodésicas (GPS, gravimetría). Recolección y distribución de datos a las agencias correspondientes.
 
 ### Programador · Maat GKnowledge
 
-:date: may. 2005 - oct. 2006 · 1 año 6 meses :earth_americas: Ciudad Autónoma de Buenos Aires, Argentina
+:date: May. 2005 - Oct. 2006 · 1 año 6 meses :earth_americas: Ciudad Autónoma de Buenos Aires, Argentina
 
-Tareas como programador de aplicaciones web (XHTML, CSS, JavaScript, XML, SQL, AJAX y Perl) y forme parte de un equipo de trabajo distribuido con personas de Argentina, España y Venezuela desarrollando aplicativos para sistemas de bancarios españoles.
+- Desarrollo de aplicaciones web con XHTML, CSS, JavaScript, XML, SQL, AJAX y Perl. Formé parte de un equipo distribuido en Argentina, España y Venezuela, desarrollando sistemas bancarios.
 
 ## Formación Académica
 
 ### Licenciado en Informática · Universidad Nacional de Hurlingham
 
-:date: mar. 2021 - dic. 2026 :earth_americas: Hurlingham
+:date: Mar. 2021 - Dic. 2026 :earth_americas: Hurlingham
 
-Actualmente finalizando tesina.
+- Actualmente finalizando tesina.
 
 ### Técnico Universitario en Informática · Universidad Nacional de Hurlingham
 
-:date: mar. 2021 - dic. 2023 :earth_americas: Hurlingham
+:date: Mar. 2021 - Dic. 2023 :earth_americas: Hurlingham
 
-### Ingeniero en Electrónica · Universidad de Morón 
+### Ingeniería en Electrónica · Universidad de Morón
 
 :date: 2012 - 2015 :earth_americas: Morón
 
-Aprobado hasta quito año.
+- Aprobado hasta quinto año.
 
-### Ingeniero en Electrónica · Universidad Tecnológica Nacional
+### Ingeniería en Electrónica · Universidad Tecnológica Nacional
 
 :date: 2002 - 2012 :earth_americas: Haedo
 
-Aprobado hasta tercer año.
+- Aprobado hasta tercer año.
 
 ### Técnico en Electrónica, Orientación en Control de Procesos · Instituto Juan XXIII
 
 :date: 1996 - 2001 :earth_americas: Ramos Mejía
 
-## Idioma
+## Idiomas
 
 - :date: 2000 – 2004 :earth_americas: Instituto Cambridge de Cultura Inglesa
-
-Exámenes libres del los niveles Adultos y Superior.
+  - Exámenes libres de los niveles Adultos y Superior.
 
 - :date: 1995 – 2000 :earth_americas: Cultural Inglesa de Buenos Aires
+  - Exámenes libres de los niveles infantiles y adolescentes.
 
-Exámenes libres de los niveles infantiles y adolescentes.
-
-
-## Capacitaciones/Workshops
+## Capacitaciones / Workshops
 
 - Escuela Internacional de Verano de Inteligencia Artificial · EIVIA 2025
-- Curso Criptografía Nivel Introductorio · CACIC 2022
-- Gestión de la Metrología y Calibración · TUV RheinlandTUV Rheinland
-- Curso KiCad para el diseño de circuitos de mediana complejidad y multicapa · INTI-CMNBINTI-CMNB
+- Curso de Criptografía Nivel Introductorio · CACIC 2022
+- Gestión de la Metrología y Calibración · TUV Rheinland
+- Curso KiCad para diseño de circuitos de mediana complejidad y multicapa · INTI-CMNB
 - Desarrollo Ágil con Tecnología ARM CORTEX-M · VI Congreso de uEA 2015
 
-## Actividades complementarias
+## Actividades Complementarias
 
-- Actualmente becario en el rol de Iniciación a la Vida Científica (IVC) dentro del marco de las Becas de Estímulo a las Vocaciones Científicas (becas EVC-CIN) en el Laboratorio de investigación y desarrollo experimental en computación (LIDEC) en la UNaHur.
-- Un Estudiante/un compañero. programa de voluntariado para orientación y seguimiento de alumnos ingresantes en la UNaHur.
-- Promotor de Bienestar estudiantil, programa de voluntariado para asistencia a alumnos en cuanto a lo relacionado a actividades complementarias dentro de la universidad.
-- Colaborador como presentador de las charlar en el Congreso Argentino de Sistemas Embebidos, CASE2020.
-
-
+- Becario en el rol de Iniciación a la Vida Científica (IVC) dentro del marco de las Becas de Estímulo a las Vocaciones Científicas (EVC-CIN) en el Laboratorio de Investigación y Desarrollo Experimental en Computación (LIDEC) en la UNAHUR.
+- Voluntario en el programa "Un Estudiante, un Compañero" para la orientación y seguimiento de alumnos ingresantes en la UNAHUR.
+- Promotor de Bienestar Estudiantil, brindando asistencia a estudiantes en actividades complementarias de la universidad.
+- Colaborador y presentador en el Congreso Argentino de Sistemas Embebidos, CASE2020.
