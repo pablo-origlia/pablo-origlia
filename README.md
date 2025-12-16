@@ -6,7 +6,7 @@
 
 :date: Mar. 2025 - Actualidad :earth_americas: Villa Tesei, Provincia de Buenos Aires, Argentina
 
-- Como ayudante de segunda, formo parte del equipo de trabajo de "Programación con Objetos I", materia del tercer cuatrimestre de la carrera de Tecnicatura en Informática. Me encargo de las clases teórico-prácticas, donde se profundizan conceptos clave para que los estudiantes desarrollen sus habilidades en programación orientada a objetos.
+- Como ayudante de segunda, formo parte del equipo docente de "Programación con Objetos I", materia del tercer cuatrimestre de la carrera de Tecnicatura en Informática. Me encargo de las clases teórico-prácticas, donde se profundizan conceptos clave para que los estudiantes desarrollen sus habilidades en programación orientada a objetos.
 
 ### Técnico Especialista · Nucleoeléctrica Argentina S.A.
 
@@ -19,7 +19,7 @@
 
 :date: Ago. 2024 - Feb. 2025 :earth_americas: Villa Tesei, Provincia de Buenos Aires, Argentina
 
-- Como ayudante de segunda, formé parte del equipo de trabajo de "Programación Estructurada", materia del segundo cuatrimestre de la Tecnicatura en Informática. Impartí clases teórico-prácticas, reforzando conceptos clave en programación imperativa estructurada.
+- Como ayudante de segunda, formé parte del equipo docente de "Programación Estructurada", materia del segundo cuatrimestre de la Tecnicatura en Informática. Impartí clases teórico-prácticas, reforzando conceptos clave en programación imperativa estructurada.
 
 ### Estudiante Asistente · Universidad Nacional de Hurlingham (UNAHUR)
 
@@ -49,9 +49,7 @@
 
 ### Licenciado en Informática · Universidad Nacional de Hurlingham
 
-:date: Mar. 2021 - Dic. 2026 :earth_americas: Hurlingham
-
-- Actualmente finalizando tesina.
+:date: Mar. 2021 - Dic. 2025 :earth_americas: Hurlingham
 
 ### Técnico Universitario en Informática · Universidad Nacional de Hurlingham
 
